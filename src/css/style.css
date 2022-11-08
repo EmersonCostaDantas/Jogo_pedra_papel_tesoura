@@ -1,0 +1,26 @@
+h1, p{
+  text-align: center;
+  margin:12px 12px;
+  font-family: Arial;
+}
+h1{
+  font-size: 32px;
+  margin-top:24px;
+  margin-bottom: 26px;
+}
+.btn{
+  
+  text-align: center;
+}
+
+#button{
+ justify-content: space-between;
+  font-size: 72px;
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+}
+#butao_resultado{
+  font-size:12px;
+  justify-content: center;
+}
